@@ -1,4 +1,4 @@
-#  Online-Exam-Test-beginner
+#  Online-Exam-Test-Beginner
 
 An end-to-end Online Exam Test System for beginner-level learning and development, built using Angular, Spring Boot, and MySQL. This project allows admins to create and manage quizzes, users to attempt tests, and both to view results.
 
